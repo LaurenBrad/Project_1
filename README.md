@@ -1,6 +1,6 @@
 ## Project 1 Presentation Outline 
 •	Title Slide
-* Include the name of the project and group members.
+* Include the name of the project and group members: Sravani Misra & Lauren Bradshaw
 
 •	Proposed Title: Travel, Happiness, and COVID
 
